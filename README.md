@@ -1,1 +1,0 @@
-# displaying-elements-in-array
